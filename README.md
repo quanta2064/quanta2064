@@ -1,4 +1,4 @@
-Hi there :)
+Hi there :) <br>
 I'm Aastha, a second year student at Delhi Technological University pursuing my degree in B.Tech Information Technology.
 <br>
 I love problem solving and working on solutions both in professional and daily life.<br>
